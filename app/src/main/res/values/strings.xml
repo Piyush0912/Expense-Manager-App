@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expanse Manager</string>
+    <string name="manage_your_expenses"><b>Manage your Expenses</b></string>
+    <string name="welcome"><b>Welcome</b></string>
+</resources>
